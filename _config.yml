@@ -61,6 +61,17 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+       - layout: left
+        title: Schmitz lab, Charité-Universitätsmedizin Berlin
+        link: https://schmitz.neurocure.de/
+        # link_text: boringcompany.com
+        sub_title: Postdoc
+        caption: 2021-
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Analysing open-access datasets, focusing on hippocampal ripples.
+
       - layout: left
         title: Schmitz lab, Charité-Universitätsmedizin Berlin
         link: https://schmitz.neurocure.de/
