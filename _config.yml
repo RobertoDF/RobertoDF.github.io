@@ -72,7 +72,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Analysing open-access datasets, focusing on hippocampal ripples.
 
-      - layout: left
+      - layout: right
         title: Schmitz lab, Charité-Universitätsmedizin Berlin
         link: https://schmitz.neurocure.de/
         # link_text: boringcompany.com
@@ -87,7 +87,7 @@ content:
             in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
             pharmacology, immunohistochemistry and confocal imaging. I also became proficient with Matlab and Python for data analysis.
 
-      - layout: right
+      - layout: left
         title: Poulet lab, Max Delbrück Center (MDC)
         link: https://www.mdc-berlin.de/poulet
          # link_text: boringcompany.com
@@ -100,7 +100,7 @@ content:
             "A somatosensory circuit for cooling perception in mice (Nature Neuroscience, 2014)". I have performed in vivo whole cell patch clamp recording from anesthetized mice,
             thalamic drug injections and behavioral training.
 
-      - layout: left
+      - layout: right
         title: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
         link: https://www.activetouch.de/
         # link_text: boringcompany.com
@@ -117,7 +117,7 @@ content:
                 USVs emission rate was used as a measure of ticklishness. 
                 In addition to this psychophysics experiment I assisted to in vivo tetrodes recording and electrical microstimulation in S1. 
 
-      - layout: right
+      - layout: left
         title: Cherubini lab, International School for Advanced Studies (SISSA).
         link: https://www.sissa.it/
         # link_text: boringcompany.com
