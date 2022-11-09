@@ -165,23 +165,23 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
     
-      - **[Differential ripple propagation along the hippocampal longitudinal axis.](https://github.com/RobertoDF/De-Filippo-et-al-2022)**\
+      - **[Differential ripple propagation along the hippocampal longitudinal axis](https://github.com/RobertoDF/De-Filippo-et-al-2022)**\
         Under review. \
         De Filippo R<sup>*</sup>, Schmitz D.\
         <sup>*</sup> = corresponding author
         
-       - **Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex.**\
+       - **[Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex](https://elifesciences.org/articles/66960)**\
         Elife. 2021 Mar 31;10:e66960. doi: 10.7554/eLife.66960. PMID: 33789079; PMCID: PMC8016478.\
         De Filippo R<sup>*</sup>, Rost BR, Stumpf A, Cooper C, Tukker JJ, Harms C, Beed P, Schmitz D<sup>*</sup>.\
         <sup>*</sup> = corresponding authors
 
 
-        - **Layer 3 Pyramidal Cells in the Medial Entorhinal Cortex Orchestrate Up-Down States and Entrain the Deep Layers Differentially.** \
+        - **[Layer 3 Pyramidal Cells in the Medial Entorhinal Cortex Orchestrate Up-Down States and Entrain the Deep Layers Differentially](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31459-5)** \
         Cell Rep. 2020 Dec 8;33(10):108470. doi: 10.1016/j.celrep.2020.108470. PMID: 33296656.\
         Beed P<sup>*</sup>, De Filippo R<sup>*</sup>, Holman C<sup>*</sup>, Johenning FW, Leibold C, Caputi A, Monyer H, Schmitz D.\
         <sup>*</sup> = equal contribution
 
-        - **Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization of PSD-95.** \
+        - **[Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization of PSD-95](https://www.jneurosci.org/content/36/20/5437)** \
         J Neurosci. 2016 May 18;36(20):5437-47. doi: 10.1523/JNEUROSCI.3124-15.2016. PMID: 27194325; PMCID: PMC6601765.\
         Antonelli R, De Filippo R, Middei S, Stancheva S, Pastore B, Ammassari-Teule M, Barberis A, Cherubini E, Zacchi P. 
 
