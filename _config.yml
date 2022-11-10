@@ -74,6 +74,9 @@ content:
 
       - layout: right
         title: Schmitz lab, Charité-Universitätsmedizin Berlin
+                <p style="text-align:center">
+                  <img src="/images/Logo_Charite.svg.png" height="50"/> 
+                </p>
         link: https://schmitz.neurocure.de/
         # link_text: boringcompany.com
         sub_title: PhD student
@@ -89,6 +92,9 @@ content:
 
       - layout: left
         title: Poulet lab, Max Delbrück Center (MDC)
+                <p style="text-align:center">
+                  <img src="/images/MDC_logo.png" height="100"/> 
+                </p>
         link: https://www.mdc-berlin.de/poulet
          # link_text: boringcompany.com
         sub_title: PhD student
@@ -102,6 +108,9 @@ content:
 
       - layout: right
         title: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
+                <p style="text-align:center">
+                  <img src="/images/BNCN_Logo_340x156.png" height="100"/> 
+                </p>
         link: https://www.activetouch.de/
         # link_text: boringcompany.com
         sub_title: Lab rotation
@@ -119,6 +128,9 @@ content:
 
       - layout: left
         title: Cherubini lab, International School for Advanced Studies (SISSA).
+                <p style="text-align:center">
+                  <img src="/images/sissa_logo.png" height="100"/> 
+                </p>
         link: https://www.sissa.it/
         # link_text: boringcompany.com
         sub_title: Master student
