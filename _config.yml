@@ -142,7 +142,7 @@ content:
       - layout: top-middle
         title: Charité – Universitätsmedizin Berlin
                 <p style="text-align:center">
-                  <img src="/images/Logo_Charite.svg.png " width="200" />
+                  <img src="/images/Logo_Charite.svg.png " height="200" />
                 </p>
         #caption: October 2011 - October 2013
         sub_title: Doctor of Philosophy in Medical Neurosciences (PhD)
@@ -159,7 +159,7 @@ content:
       - layout: top-middle
         title: University of Trieste 
                 <p style="text-align:center">
-                  <img src="/images/university_trieste.jpeg" width="200"/> 
+                  <img src="/images/university_trieste.jpeg" height="200"/> 
                 </p>
         #caption: October 2011 - October 2013
         sub_title: Master's degree in Neuroscience
@@ -172,6 +172,9 @@ content:
 
       - layout: top-middle
         title: University of Milan
+              <p style="text-align:center">
+                  <img src="/images/University_of_Milan_logo.png" height="200"/> 
+                </p>
         #caption: October 2008 - October 2011
         sub_title: Bachelor's degree in Biology
         quote: >
