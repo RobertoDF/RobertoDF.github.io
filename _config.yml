@@ -140,8 +140,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Charité – Universitätsmedizin Berlin
+        #caption: October 2011 - October 2013
+        sub_title: Doctor of Philosophy in Medical Neurosciences (PhD)
+        quote: >
+          summa cum laude
+        content: | # this will include new lines to allow paragraphs
+        <p style="text-align:center">
+          <img src="/images/synths.jpeg " width="300" title="synthesizers"/>
+          <img src="/images/IMG_8581.jpg" width="400" title="nice beaches"/> 
+          <img src="/images/IMG_5849.jpeg " width="400" title="skates"/>
+        </p>
+        # description: | # this will include new lines to allow paragraphs
+         # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+         # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+      - layout: top-middle
         title: University of Trieste
-        caption: October 2011 - October 2013
+        #caption: October 2011 - October 2013
         sub_title: Master's degree in Neuroscience
         quote: >
           110/110 cum laude
@@ -152,7 +169,7 @@ content:
 
       - layout: top-middle
         title: University of Milan
-        caption: October 2008 - October 2011
+        #caption: October 2008 - October 2011
         sub_title: Bachelor's degree in Biology
         quote: >
              103/110 
