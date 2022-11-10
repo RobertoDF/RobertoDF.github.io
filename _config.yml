@@ -142,7 +142,7 @@ content:
       - layout: top-middle
         title: Charité – Universitätsmedizin Berlin
                 <p style="text-align:center">
-                  <img src="/images/Logo_Charite.svg.png " height="200" />
+                  <img src="/images/Logo_Charite.svg.png " height="100" />
                 </p>
         #caption: October 2011 - October 2013
         sub_title: Doctor of Philosophy in Medical Neurosciences (PhD)
