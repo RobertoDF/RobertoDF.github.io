@@ -158,7 +158,12 @@ content:
          # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
       - layout: top-middle
-        title: University of Trieste
+        title: University of Trieste 
+                <p style="text-align:center">
+                  <img src="/images/synths.jpeg " width="300" title="synthesizers"/>
+                  <img src="/images/IMG_8581.jpg" width="400" title="nice beaches"/> 
+                  <img src="/images/IMG_5849.jpeg " width="400" title="skates"/>
+                </p>
         #caption: October 2011 - October 2013
         sub_title: Master's degree in Neuroscience
         quote: >
