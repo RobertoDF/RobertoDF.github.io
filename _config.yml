@@ -61,6 +61,20 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: right
+        title: Schmitz lab, Charité-Universitätsmedizin Berlin
+                <p style="text-align:center">
+                  <img src="/images/Logo_Charite.svg.png" height="50"/> 
+                </p>
+        link: https://schmitz.neurocure.de/
+        # link_text: boringcompany.com
+        sub_title: Postdoc
+        caption: 2023-
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Non-hypothesis driven analysis of large-scale electrophysiological datasets
+
       - layout: left
         title: Schmitz lab, Charité-Universitätsmedizin Berlin
                 <p style="text-align:center">
@@ -69,7 +83,7 @@ content:
         link: https://schmitz.neurocure.de/
         # link_text: boringcompany.com
         sub_title: Postdoc
-        caption: 2021-
+        caption: 2021-2022
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
