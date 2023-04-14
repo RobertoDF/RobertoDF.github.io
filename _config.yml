@@ -203,13 +203,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
     
-      - **[Differential ripple propagation along the hippocampal longitudinal axis](https://github.com/RobertoDF/De-Filippo-et-al-2022)**\
-        Under review. \
+      - **[Differential ripple propagation along the hippocampal longitudinal axis](https://elifesciences.org/articles/85488)**\
+        Elife. 2023 Apr 13;10:e66960. doi: 10.7554/eLife.85488. PMID: 37052307.\
         De Filippo R<sup>*</sup>, Schmitz D.\
         <sup>*</sup> = corresponding author
         
        - **[Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex](https://elifesciences.org/articles/66960)**\
-        Elife. 2021 Mar 31;10:e66960. doi: 10.7554/eLife.66960. PMID: 33789079; PMCID: PMC8016478.\
+        Elife. 2021 Mar 31;10:e66960. doi: 10.7554/eLife.66960. PMID: 33789079.\
         De Filippo R<sup>*</sup>, Rost BR, Stumpf A, Cooper C, Tukker JJ, Harms C, Beed P, Schmitz D<sup>*</sup>.\
         <sup>*</sup> = corresponding authors
 
