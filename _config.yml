@@ -218,7 +218,7 @@ content:
     content: | # this will include new lines to allow paragraphs
     
       <div style="display: flex; align-items: center; margin-bottom: 10px;">
-          <div style="flex-grow: 1; margin-right: 10px;">
+          <div style="flex-grow: 1; margin-right: 10px; font-size: 20px;"> <!-- Increase font size here -->
               <strong><a href="https://www.sciencedirect.com/science/article/pii/S014976342400006X">Synthetic surprise as the foundation of the psychedelic experience</a></strong><br/>
               Neurosci Biobehav Rev. 2024 Jan 12. doi: 10.1016/j.neubiorev.2024.105538. PMID: 38220035.<br/>
               De Filippo R<sup>*</sup>, Schmitz D.<sup>*</sup> = corresponding author
@@ -228,6 +228,7 @@ content:
               <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="158395331"></div>
           </div>
       </div>
+
 
       - **[Differential ripple propagation along the hippocampal longitudinal axis](https://elifesciences.org/articles/85488)**\
         Elife. 2023 Apr 13. doi: 10.7554/eLife.85488. PMID: 37052307.\
