@@ -218,7 +218,9 @@ content:
     content: | # this will include new lines to allow paragraphs
 
       - **[Synthetic surprise as the foundation of the psychedelic experience](https://www.sciencedirect.com/science/article/pii/S014976342400006X)**\
+        
         <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="158395331"></div>
+        
         Neurosci Biobehav Rev. 2024 Jan 12. doi: 10.1016/j.neubiorev.2024.105538. PMID: 38220035.\
         De Filippo R<sup>*</sup>, Schmitz D.\
         <sup>*</sup> = corresponding author
