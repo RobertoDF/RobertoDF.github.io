@@ -316,8 +316,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         <p style="text-align:center">
-            <img src="/images/synths.jpeg " width="300" title="synthesizers"/>
-            </a>
+          <img src="/images/synths.jpeg " width="300" title="synthesizers"/>
           <img src="/images/IMG_8581.jpg" width="400" title="nice beaches"/> 
           <img src="/images/IMG_5849.jpeg " width="400" title="skates"/>
         </p>
