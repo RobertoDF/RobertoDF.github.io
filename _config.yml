@@ -102,7 +102,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Analysing open-access datasets, focusing on hippocampal ripples.
+            Analysing large open-access datasets, focusing on hippocampal ripples propagation.
 
       - layout: right
         title: Schmitz lab, Charité-Universitätsmedizin Berlin
