@@ -62,6 +62,20 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+        - layout: left
+        title: Ott lab, Humboldt-Universität zu Berlin
+                <p style="text-align:center">
+                  <img src="/images/humboldt.png" height="50"/> 
+                </p>
+        link: https://torbenottlab.org/
+        # link_text: boringcompany.com
+        sub_title: Postdoc
+        caption: 2024-Now
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Psychedelics, large scale recordings, predictive coding in rodents.
+            
       - layout: right
         title: Schmitz lab, Charité-Universitätsmedizin Berlin
                 <p style="text-align:center">
@@ -70,11 +84,11 @@ content:
         link: https://schmitz.neurocure.de/
         # link_text: boringcompany.com
         sub_title: Postdoc
-        caption: 2023-
+        caption: 2023-2024
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Non-hypothesis driven analysis of large-scale datasets
+            Analysis of large-scale open access datasets
 
       - layout: left
         title: Schmitz lab, Charité-Universitätsmedizin Berlin
