@@ -88,7 +88,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Analysis of large-scale open access datasets
+            Analysis of large-scale open access datasets.
 
       - layout: left
         title: Schmitz lab, Charité-Universitätsmedizin Berlin
@@ -300,6 +300,9 @@ content:
   - title: Conferences
     layout: text
     content: | # this will include new lines to allow paragraphs
+        - **2024** CSHL Neuronal Circuits, Cold Spring Harbor. Poster ‘Transcriptomic Mapping of the 5-HT Receptor Landscape’
+        - **2024** COSYNE, Lisbon.
+        - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
         - **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ 
         - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
 
