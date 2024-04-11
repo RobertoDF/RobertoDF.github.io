@@ -309,7 +309,8 @@ content:
   - title: Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2015** Neurocure fellowship
+        - **2024** Allen Institute Openscope
+        - **2015** Neurocure fellowship      
 
   - title: Various interests
     layout: text
