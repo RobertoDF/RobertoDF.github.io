@@ -346,5 +346,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
