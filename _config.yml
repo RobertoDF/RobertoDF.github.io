@@ -65,7 +65,8 @@ content:
       - layout: left
         title: Ott lab, Humboldt-Universität zu Berlin
                 <p style="text-align:center">
-                  <img src="/images/humboldt.png" height="80"/> 
+                  <img src="/images/humboldt.png" height="80"/>
+                  <img src="/images/Allen_Institute_logo.jpg" height="80" style="margin-left"/>
                 </p>
         link: https://torbenottlab.org/
         # link_text: boringcompany.com
@@ -74,7 +75,7 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Psychedelics, large scale recordings, predictive coding in rodents.
+            Psychedelics, large scale recordings, predictive coding in rodents. In collaboration with the Allen Institute via Openscope.
             
       - layout: right
         title: Schmitz lab, Charité-Universitätsmedizin Berlin
