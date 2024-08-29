@@ -232,15 +232,6 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-    
-       <div style="display: flex; align-items: center; margin-bottom: 10px;">
-          <div style="flex-grow: 1; margin-right: 10px; font-size: 20px;">
-              <strong><a href="https://www.sciencedirect.com/science/article/pii/S2666389924001909">Transcriptomic mapping of the 5-HT receptor landscape</a></strong><br/>
-              Patterns 2024 Aug 29. doi: 10.1016/j.patter.2024.101048. PMID: 38220035.<br/>
-              De Filippo R<sup>*</sup>, Schmitz D
-              <br/><sup>*</sup> = Lead contact & corresponding author
-          </div>
-      </div>
       
       <div style="display: flex; align-items: center; margin-bottom: 10px;">
           <div style="flex-grow: 1; margin-right: 10px; font-size: 20px;">
