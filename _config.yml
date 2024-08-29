@@ -232,6 +232,20 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
+
+    
+        <div style="display: flex; align-items: center; margin-bottom: 10px;">
+          <div style="flex-grow: 1; margin-right: 10px; font-size: 20px;">
+              <strong><a href="https://www.cell.com/patterns/fulltext/S2666-3899(24)00190-9">Transcriptomic mapping of the 5-HT receptor landscape</a></strong><br/>
+              Patterns 2024 Aug 29. doi: 10.1016/j.patter.2024.101048. <br/>
+              De Filippo R<sup>*</sup>, Schmitz D
+              <br/><sup>*</sup> = Lead contact & corresponding author
+          </div>
+          <div>
+              <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+              <a href="https://plu.mx/plum/a/?doi=10.1016/j.patter.2024.101048" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Transcriptomic mapping of the 5-HT receptor landscape</a>
+          </div>
+      </div>
       
       <div style="display: flex; align-items: center; margin-bottom: 10px;">
           <div style="flex-grow: 1; margin-right: 10px; font-size: 20px;">
