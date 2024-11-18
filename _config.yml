@@ -62,6 +62,20 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: right
+        title: Allen Institute for Neural Dynamics, Seattle
+                <p style="text-align:center">
+                  <img src="/images/Allen_Institute_logo.png" height="80"/>
+                </p>
+        link: https://alleninstitute.org/division/neural-dynamics/
+        # link_text: boringcompany.com
+        sub_title: Visiting scientist
+        caption: November 2024
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Focusing on the effect of psilocybin on neuronal activity
+            
       - layout: left
         title: Ott lab, Humboldt-Universität zu Berlin
                 <p style="text-align:center">
