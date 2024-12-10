@@ -48,14 +48,13 @@ orcid_username: 0000-0002-4085-9114
 about_profile_image: images/profile.jpeg
 about_content: |
   I am a neuroscientist interested in the effect of neuromodulators on sensory perception. 
-  Currently my main focus is <mark>serotonin</mark>, in vivo recordings with high-density probes (Neuropixel) and  neural decoding.
+  Currently my main focus are <mark>psychedelics</mark>, in vivo recordings with high-density probes (Neuropixel) and  neural decoding.
   I have experience using:
-  <mark>Python</mark> (<mark>pandas</mark>, <mark>multiprocessing</mark>, <mark>xarray</mark>, <mark>numpy</mark>, <mark>HoloViz</mark>), 
+  <mark>Python</mark> (<mark>pandas</mark>, <mark>multiprocessing</mark>, <mark>scipy</mark>, 
+  <mark>scikit-learn</mark>, <mark>xarray</mark>, <mark>numpy</mark>, <mark>HoloViz</mark>,  <mark>Pynapple</mark>, <mark>NeMoS</mark>), 
   <mark>Matlab</mark>,
   <mark>Tensorflow</mark>,
-  <mark>Max/MSP</mark>,
-  <mark>Pure Data</mark>,
-  <mark>Hugging Face</mark>and
+  <mark>Hugging Face</mark>, <mark>Fusion360</mark>,  <mark>SLURM nodes</mark>  and
   <mark>git</mark>.
 
 content:
@@ -69,7 +68,7 @@ content:
                 </p>
         link: https://alleninstitute.org/division/neural-dynamics/
         # link_text: boringcompany.com
-        sub_title: Visiting scientist
+        sub_title: Visiting scientist (on-site)
         caption: November 2024
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -361,7 +360,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         <p style="text-align:center">
-          <img src="/images/synths.jpeg " width="300" title="synthesizers"/>
+          <img src="/images/synths.jpeg " width="300" title="Ableton & Max/MSP & Pure Data"/>
           <img src="/images/IMG_8581.jpg" width="400" title="nice beaches"/> 
           <img src="/images/IMG_5849.jpeg " width="400" title="skates"/>
         </p>
