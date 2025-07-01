@@ -62,7 +62,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: right
-        title: Allen Institute for Neural Dynamics, Seattle
+        title: Brain and Consciousness, Allen Institute, Seattle
                 <p style="text-align:center">
                   <img src="/images/Allen_Institute_logo.png" height="80"/>
                 </p>
