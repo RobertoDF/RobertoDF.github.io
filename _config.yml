@@ -344,6 +344,7 @@ content:
   - title: Conferences
     layout: text
     content: | # this will include new lines to allow paragraphs
+        - **2025** GRC, Neurobiology of Psychedelics, Bryant Universty. Poster ‘Neuronal correlates of the psychedelic state in head-fixed mice’
         - **2024** CSHL Neuronal Circuits, Cold Spring Harbor. Poster ‘Transcriptomic Mapping of the 5-HT Receptor Landscape’
         - **2024** COSYNE, Lisbon.
         - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
