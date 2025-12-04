@@ -59,8 +59,8 @@ about_content: |
 
 content:
  - title: Tools & Interactive Apps
-    layout: text
-    content: |
+   layout: text
+   content: |
       <div style="text-align: center; margin: 20px 0;">
         <h3>Transcriptomic Mapping of the 5-HT Receptor Landscape</h3>
         <p>An interactive browser to explore single-cell and spatial transcriptomics data of serotonin receptors in the mouse brain.</p>
