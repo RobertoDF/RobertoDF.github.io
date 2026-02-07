@@ -396,6 +396,9 @@ content:
           <img src="/images/V2Y0.gif " width="330" title="cinema"/>
           <img src="/images/philosophy.jpeg " width="330" title="philosophy"/>
         </p>
+        <div style="text-align: center; margin: 30px 0;">
+          <iframe height="450" width="100%" title="Media player" src="https://embed.music.apple.com/us/album/the-clock-is-ticking/1875093349?itscg=30200&amp;itsct=music_box_player&amp;ls=1&amp;app=music&amp;mttnsubad=1875093349&amp;theme=auto" id="embedPlayer" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="border: 0px; border-radius: 12px; width: 100%; height: 450px; max-width: 660px;"></iframe>
+        </div>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
