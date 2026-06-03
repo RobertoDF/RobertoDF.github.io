@@ -269,6 +269,13 @@ content:
 
     
       <div style="display: flex; align-items: center; margin-bottom: 10px;">
+          <div style="display: flex; align-items: center; margin-bottom: 10px;">
+              <div style="flex-grow: 1; margin-right: 10px; font-size: 20px;">
+                  <strong><a href="https://arxiv.org/abs/2504.09614">Neural mechanisms of predictive processing: a collaborative community experiment through the OpenScope program</a></strong><br/>
+                  <strong>arXiv</strong> 2025. arXiv:2504.09614.<br/>
+                  Aizenbud I, Audette N, Auksztulewicz R, Basiński K, Bastos AM, Berry M, Canales-Johnson A, Choi H, Clopath C, Cohen U, Costa RP, De Filippo R, Doronin R, Durand S, Errington SP, Gavornik JP, Gillon CJ, Granier A, Hamm JP, Hertäg L, Kennedy H, Kumar S, Ladd A, Ladret H, Lecoq JA, Maier A, McCarthy P, Mei J, Mejias J, Meng JH, Mikulasch F, Mudrik N, Najafi F, Nejad K, Nejat H, Oweiss K, Petrovici MA, Priesemann V, Rudelt L, Ruediger S, Russo S, Salatiello A, Senn W, Sennesh E, Sima S, Uran C, Vasilevskaya A, Vezoli J, Vinck M, Wang XJ, Westerberg JA, Wilmes K, Xiong YS
+              </div>
+          </div>
           <div style="flex-grow: 1; margin-right: 10px; font-size: 20px;">
               <strong><a href="https://www.cell.com/patterns/fulltext/S2666-3899(24)00190-9">Transcriptomic mapping of the 5-HT receptor landscape</a>
               (<a href="https://rdef654875678597657-5-ht-transcriptomics.hf.space">online app</a>)</strong><br/>
