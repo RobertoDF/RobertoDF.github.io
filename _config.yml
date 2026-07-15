@@ -378,7 +378,7 @@ content:
           <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
             <img src="/images/FENS-LOGO-blue.jpg" style="max-width: 80px; max-height: 60px;" alt="FENS logo"/>
           </div>
-          <div style="flex-grow: 1;">
+          <div style="flex-grow: 1; font-size: 20px;">
             <strong>2026</strong> FENS, Forum of Neuroscience. Poster ‘Psilocybin shifts visual cortical dynamics toward a state of surprise’
           </div>
         </div>
@@ -386,7 +386,7 @@ content:
           <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
             <img src="/images/Gordon-Research-Conferences.png" style="max-width: 80px; max-height: 60px;" alt="Gordon Research Conferences logo"/>
           </div>
-          <div style="flex-grow: 1;">
+          <div style="flex-grow: 1; font-size: 20px;">
             <strong>2025</strong> GRC, Neurobiology of Psychedelics, Bryant University. Poster ‘Neuronal correlates of the psychedelic state in head-fixed mice’
           </div>
         </div>
@@ -394,7 +394,7 @@ content:
           <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
             <img src="/images/cshl_logo_alternate_RGB.png" style="max-width: 80px; max-height: 60px;" alt="CSHL logo"/>
           </div>
-          <div style="flex-grow: 1;">
+          <div style="flex-grow: 1; font-size: 20px;">
             <strong>2024</strong> CSHL Neuronal Circuits, Cold Spring Harbor. Poster ‘Transcriptomic Mapping of the 5-HT Receptor Landscape’
           </div>
         </div>
@@ -402,7 +402,7 @@ content:
           <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
             <img src="/images/COSYNE.png" style="max-width: 80px; max-height: 60px;" alt="COSYNE logo"/>
           </div>
-          <div style="flex-grow: 1;">
+          <div style="flex-grow: 1; font-size: 20px;">
             <strong>2024</strong> COSYNE, Lisbon.
           </div>
         </div>
@@ -410,7 +410,7 @@ content:
           <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
             <img src="/images/insight%202019.png" style="max-width: 80px; max-height: 60px;" alt="INSIGHT logo"/>
           </div>
-          <div style="flex-grow: 1;">
+          <div style="flex-grow: 1; font-size: 20px;">
             <strong>2019</strong> INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
           </div>
         </div>
@@ -418,7 +418,7 @@ content:
           <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
             <img src="/images/FENS-LOGO-blue.jpg" style="max-width: 80px; max-height: 60px;" alt="FENS logo"/>
           </div>
-          <div style="flex-grow: 1;">
+          <div style="flex-grow: 1; font-size: 20px;">
             <strong>2018</strong> FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
           </div>
         </div>
