@@ -426,8 +426,22 @@ content:
   - title: Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2024** Allen Institute Openscope
-        - **2015** Neurocure fellowship      
+        <div style="display: flex; align-items: center; margin-bottom: 16px;">
+          <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
+            <img src="/images/openscope.png" style="max-width: 80px; max-height: 60px;" alt="Allen Institute Openscope logo"/>
+          </div>
+          <div style="flex-grow: 1; font-size: 20px;">
+            <strong>2024</strong> Allen Institute Openscope
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 16px;">
+          <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
+            <img src="/images/NeuroCure-col-M-eng.jpg" style="max-width: 80px; max-height: 60px;" alt="NeuroCure logo"/>
+          </div>
+          <div style="flex-grow: 1; font-size: 20px;">
+            <strong>2015</strong> Neurocure fellowship
+          </div>
+        </div>
 
   - title: Various interests
     layout: text
