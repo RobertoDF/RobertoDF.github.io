@@ -374,12 +374,54 @@ content:
   - title: Conferences
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2026** FENS, Forum of Neuroscience. Poster ‘Psilocybin shifts visual cortical dynamics toward a state of surprise’
-        - **2025** GRC, Neurobiology of Psychedelics, Bryant University. Poster ‘Neuronal correlates of the psychedelic state in head-fixed mice’
-        - **2024** CSHL Neuronal Circuits, Cold Spring Harbor. Poster ‘Transcriptomic Mapping of the 5-HT Receptor Landscape’
-        - **2024** COSYNE, Lisbon.
-        - **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ 
-        - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
+        <div style="display: flex; align-items: center; margin-bottom: 16px;">
+          <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
+            <img src="/images/FENS-LOGO-blue.jpg" style="max-width: 80px; max-height: 60px;" alt="FENS logo"/>
+          </div>
+          <div style="flex-grow: 1;">
+            <strong>2026</strong> FENS, Forum of Neuroscience. Poster ‘Psilocybin shifts visual cortical dynamics toward a state of surprise’
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 16px;">
+          <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
+            <img src="/images/Gordon-Research-Conferences.png" style="max-width: 80px; max-height: 60px;" alt="Gordon Research Conferences logo"/>
+          </div>
+          <div style="flex-grow: 1;">
+            <strong>2025</strong> GRC, Neurobiology of Psychedelics, Bryant University. Poster ‘Neuronal correlates of the psychedelic state in head-fixed mice’
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 16px;">
+          <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
+            <img src="/images/cshl_logo_alternate_RGB.png" style="max-width: 80px; max-height: 60px;" alt="CSHL logo"/>
+          </div>
+          <div style="flex-grow: 1;">
+            <strong>2024</strong> CSHL Neuronal Circuits, Cold Spring Harbor. Poster ‘Transcriptomic Mapping of the 5-HT Receptor Landscape’
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 16px;">
+          <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
+            <img src="/images/COSYNE.png" style="max-width: 80px; max-height: 60px;" alt="COSYNE logo"/>
+          </div>
+          <div style="flex-grow: 1;">
+            <strong>2024</strong> COSYNE, Lisbon.
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 16px;">
+          <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
+            <img src="/images/insight%202019.png" style="max-width: 80px; max-height: 60px;" alt="INSIGHT logo"/>
+          </div>
+          <div style="flex-grow: 1;">
+            <strong>2019</strong> INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 16px;">
+          <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
+            <img src="/images/FENS-LOGO-blue.jpg" style="max-width: 80px; max-height: 60px;" alt="FENS logo"/>
+          </div>
+          <div style="flex-grow: 1;">
+            <strong>2018</strong> FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
+          </div>
+        </div>
 
   - title: Awards
     layout: text
