@@ -68,7 +68,7 @@ content:
         <p style="margin: 0 0 16px;">
           An interactive browser to explore single-cell and spatial transcriptomics data of serotonin receptors in the mouse brain.
         </p>
-        <a href="https://rdef654875678597657-5-ht-transcriptomics.hf.space" target="_blank" style="display: inline-block; padding: 10px 22px; background-color: #D77A61; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 1.25em;">
+        <a href="https://rdef654875678597657-5-ht-transcriptomics.hf.space" target="_blank" style="display: inline-block; padding: 10px 22px; background-color: #D77A61; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
           🧬 Launch the App (best in Chrome)
         </a>
         <p style="margin-top: 14px;">
@@ -231,7 +231,7 @@ content:
  
 
         # description: | # this will include new lines to allow paragraphs
-         # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+         # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university.
 
          # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
@@ -245,7 +245,7 @@ content:
         quote: >
           110/110 cum laude
         # description: | # this will include new lines to allow paragraphs
-         # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+         # During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university.
 
          # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
@@ -259,7 +259,7 @@ content:
         quote: >
              103/110 
         # description: | # this will include new lines to allow paragraphs
-        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university.
 
         #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
@@ -272,7 +272,7 @@ content:
           <div style="flex-grow: 1; margin-right: 10px; font-size: 20px;">
               <strong><a href="https://arxiv.org/abs/2504.09614">Neural mechanisms of predictive processing: a collaborative community experiment through the OpenScope program</a></strong><br/>
               <strong>arXiv</strong> 2025. arXiv:2504.09614.<br/>
-              Aizenbud I, Audette N, Auksztulewicz R, Basiński K, Bastos AM, Berry M, Canales-Johnson A, Choi H, Clopath C, Cohen U, Costa RP, De Filippo R, Doronin R, Durand S, Errington SP, Gavornik JP, Gillon CJ, Granier A, Hamm JP, Hertäg L, Kennedy H, Kumar S, Ladd A, Ladret H, Lecoq JA, Maier A, McCarthy P, Mei J, Mejias J, Meng JH, Mikulasch F, Mudrik N, Najafi F, Nejad K, Nejat H, Oweiss K, Petrovici MA, Priesemann V, Rudelt L, Ruediger S, Russo S, Salatiello A, Senn W, Sennesh E, Sima S, Uran C, Vasilevskaya A, Vezoli J, Vinck M, Wang XJ, Westerberg JA, Wilmes K, Xiong YS
+              Aizenbud I, Audette N, Auksztulewicz R, Basiński K, Bastos AM, Berry M, Canales-Johnson A, Choi H, Clopath C, Cohen U, Costa RP, De Filippo R, Doronin R, Durand S, Errington SP, Galarce EJ, et al.
           </div>
       </div>
 
@@ -350,7 +350,7 @@ content:
           </div>
           <div>
               <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-              <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.celrep.2020.108470" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Layer 3 Pyramidal Cells in the Medial Entorhinal Cortex Orchestrate Up-Down States and Entrain the Deep Layers Differentially</a>
+              <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.celrep.2020.108470" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Layer 3 Pyramidal Cells in the Medial Entorhinal Cortex</a>
           </div>
       </div>
       
@@ -374,10 +374,10 @@ content:
   - title: Conferences
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - **2025** GRC, Neurobiology of Psychedelics, Bryant Universty. Poster ‘Neuronal correlates of the psychedelic state in head-fixed mice’
+        - **2026** FENS, Forum of Neuroscience. Poster ‘Psilocybin shifts visual cortical dynamics toward a state of surprise’
+        - **2025** GRC, Neurobiology of Psychedelics, Bryant University. Poster ‘Neuronal correlates of the psychedelic state in head-fixed mice’
         - **2024** CSHL Neuronal Circuits, Cold Spring Harbor. Poster ‘Transcriptomic Mapping of the 5-HT Receptor Landscape’
         - **2024** COSYNE, Lisbon.
-        - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
         - **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ 
         - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
 
@@ -406,7 +406,7 @@ content:
           <img src="/images/philosophy.jpeg " width="330" title="philosophy"/>
         </p>
         <div style="text-align: center; margin: 30px 0;">
-          <iframe height="450" width="100%" title="Media player" src="https://embed.music.apple.com/us/album/the-clock-is-ticking/1875093349?itscg=30200&amp;itsct=music_box_player&amp;ls=1&amp;app=music&amp;mttnsubad=1875093349&amp;theme=auto" id="embedPlayer" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="border: 0px; border-radius: 12px; width: 100%; height: 450px; max-width: 660px;"></iframe>
+          <iframe height="450" width="100%" title="Media player" src="https://embed.music.apple.com/us/album/the-clock-is-ticking/1875093349?itscg=30200&amp;itsct=music_box_player&amp;ls=1&amp;app=music&amp;theme=auto" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px;" frameborder="0"></iframe>
         </div>
         
 # Footer
