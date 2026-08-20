@@ -1,6 +1,6 @@
 # Site
 repository: RobertoDF/RobertoDF.github.io
-favicon: images/favicon.ico
+favicon: images/favicon.gif
 
 # Content configuration version
 version: 2
@@ -274,6 +274,10 @@ content:
               <strong>bioRxiv</strong> 2026 Aug 19. doi: 10.64898/2026.08.14.744865.<br/>
               Momi D, Nahas Y, Wyrick D, Marks LC, Claar LD, De Filippo R, Seyfourian P, Pizzagalli DA, Buice M, Ott TA, Koch C, Rembado I
           </div>
+          <div>
+              <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+              <div class="altmetric-embed" data-badge-type="donut" data-doi="10.64898/2026.08.14.744865"></div>
+          </div>
       </div>
 
       <div style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -281,6 +285,10 @@ content:
               <strong><a href="https://arxiv.org/abs/2504.09614">Neural mechanisms of predictive processing: a collaborative community experiment through the OpenScope program</a></strong><br/>
               <strong>arXiv</strong> 2025. arXiv:2504.09614.<br/>
               Aizenbud I, Audette N, Auksztulewicz R, Basiński K, Bastos AM, Berry M, Canales-Johnson A, Choi H, Clopath C, Cohen U, Costa RP, De Filippo R, Doronin R, Durand S, Errington SP, Gavornik JP, Gillon CJ, Granier A, Hamm JP, Hertäg L, Kennedy H, Kumar S, Ladd A, Ladret H, Lecoq JA, Maier A, McCarthy P, Mei J, Mejias J, Meng JH, Mikulasch F, Mudrik N, Najafi F, Nejad K, Nejat H, Oweiss K, Petrovici MA, Priesemann V, Rudelt L, Ruediger S, Russo S, Salatiello A, Senn W, Sennesh E, Sima S, Uran C, Vasilevskaya A, Vezoli J, Vinck M, Wang XJ, Westerberg JA, Wilmes K, Xiong YS
+          </div>
+          <div>
+              <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+              <div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="176124866"></div>
           </div>
       </div>
 
