@@ -47,15 +47,15 @@ orcid_username: 0000-0002-4085-9114
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: |
-  I am a neuroscientist interested in the effect of neuromodulators on sensory perception. 
-  Currently my main focus are <mark>psychedelics</mark>, in vivo recordings with high-density probes (Neuropixel) and  neural decoding.
-  I have experience using:
+  I am a neuroscientist studying <span class="psychedelic-text">psychedelics</span> and their effects on neural activity.
+  My current work focuses on in vivo electrophysiology using high-density Neuropixels probes.
+  My technical toolkit includes:
   <mark>Python</mark> (<mark>pandas</mark>, <mark>multiprocessing</mark>, <mark>scipy</mark>, 
   <mark>scikit-learn</mark>, <mark>xarray</mark>, <mark>numpy</mark>, <mark>HoloViz</mark>,  <mark>Pynapple</mark>, <mark>NeMoS</mark>), 
-  <mark>Matlab</mark>,
-  <mark>Tensorflow</mark>,
-  <mark>Hugging Face</mark>, <mark>Fusion360</mark>,  <mark>SLURM nodes</mark>  and
-  <mark>git</mark>.
+  <mark>MATLAB</mark>,
+  <mark>TensorFlow</mark>,
+  <mark>Hugging Face</mark>, <mark>Fusion 360</mark>, <mark>SLURM-based computing clusters</mark>, and
+  <mark>Git</mark>.
 
 content:
   - title: Tools & Interactive Apps
