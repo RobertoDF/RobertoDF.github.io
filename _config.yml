@@ -51,7 +51,7 @@ about_content: |
   My current work focuses on in vivo electrophysiology using high-density Neuropixels probes.
   My technical toolkit includes:
   <mark>Python</mark> (<mark>pandas</mark>, <mark>multiprocessing</mark>, <mark>scipy</mark>, 
-  <mark>scikit-learn</mark>, <mark>xarray</mark>, <mark>numpy</mark>, <mark>HoloViz</mark>,  <mark>Pynapple</mark>, <mark>NeMoS</mark>), 
+  <mark>scikit-learn</mark>, <mark>xarray</mark>, <mark>numpy</mark>, <mark>HoloViz</mark>, <mark>Marimo</mark>, <mark>Pynapple</mark>, <mark>NeMoS</mark>),
   <mark>MATLAB</mark>,
   <mark>TensorFlow</mark>,
   <mark>Hugging Face</mark>, <mark>Fusion 360</mark>, <mark>SLURM-based computing clusters</mark>, and
