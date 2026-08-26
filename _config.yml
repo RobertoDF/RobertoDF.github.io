@@ -270,6 +270,18 @@ content:
     
       <div style="display: flex; align-items: center; margin-bottom: 10px;">
           <div style="flex-grow: 1; margin-right: 10px; font-size: 20px;">
+              <strong><a href="https://www.biorxiv.org/content/10.64898/2026.08.21.745777v1">Psilocybin collapses visual change detection and drives cortical dynamics toward a state of surprise</a></strong><br/>
+              <strong>bioRxiv</strong> 2026 Aug 25. doi: 10.64898/2026.08.21.745777.<br/>
+              De Filippo R, Gillis R, Wyrick D, Carlson M, Durand S, Peene RC, Bawany A, Amaya A, Grasso C, Han W, Kenney J, Kiselycznyk C, Loeffler H, Marks LC, Naidoo R, Ouellette B, Suarez L, Swapp J, Johnson T, Weber J, Wilkes J, Groblewski PA, Williford A, Buice M, Koch C, Rembado I, Lecoq JA, Ott T
+          </div>
+          <div>
+              <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+              <div class="altmetric-embed" data-badge-type="donut" data-doi="10.64898/2026.08.21.745777"></div>
+          </div>
+      </div>
+
+      <div style="display: flex; align-items: center; margin-bottom: 10px;">
+          <div style="flex-grow: 1; margin-right: 10px; font-size: 20px;">
               <strong><a href="https://www.biorxiv.org/content/10.64898/2026.08.14.744865v1">Brain-wide reconfiguration of burst firing by psilocybin reveals 5-HT<sub>2A</sub>-dependent circuit dynamics</a></strong><br/>
               <strong>bioRxiv</strong> 2026 Aug 19. doi: 10.64898/2026.08.14.744865.<br/>
               Momi D, Nahas Y, Wyrick D, Marks LC, Claar LD, De Filippo R, Seyfourian P, Pizzagalli DA, Buice M, Ott TA, Koch C, Rembado I
