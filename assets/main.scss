@@ -16,7 +16,7 @@
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  filter: drop-shadow(0 0 4px rgb(255 0 168 / 45%));
+  filter: drop-shadow(0 0 4px rgba(255, 0, 168, 0.45));
   animation: psychedelic-shift 4s linear infinite;
 }
 
