@@ -78,6 +78,24 @@ content:
       <div style="text-align: center; margin-top: 24px;">
         <img src="/images/app-screenshot.png" alt="App screenshot" width="800" style="border: 5px solid #D77A61; border-radius: 8px;">
       </div>
+      <hr style="margin: 48px auto; border: none; border-top: 1px solid #ddd;">
+      <div style="text-align: center; margin: 24px 0;">
+        <div style="font-size: 1.65em; font-weight: bold; margin-bottom: 8px; line-height: 1.3;">
+          DOI Banner
+        </div>
+        <p style="margin: 0 0 16px;">
+          Paste a DOI and get a transparent citation banner (PNG or SVG) for your slides — title, authors, journal, year and a QR code that links to the paper. Runs entirely in the browser; metadata comes from Crossref and DataCite.
+        </p>
+        <a href="https://robertodf.github.io/doi-banner/" target="_blank" style="display: inline-block; padding: 10px 22px; background-color: #4B8E8D; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+          🏷️ Launch the App
+        </a>
+        <p style="margin-top: 14px;">
+          <em>Source: <a href="https://github.com/RobertoDF/doi-banner">github.com/RobertoDF/doi-banner</a></em>
+        </p>
+      </div>
+      <div style="text-align: center; margin-top: 24px;">
+        <img src="/images/doi-banner.png" alt="DOI Banner example" width="800" style="border: 5px solid #4B8E8D; border-radius: 8px;">
+      </div>
       
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
