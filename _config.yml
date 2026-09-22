@@ -58,7 +58,7 @@ about_content: |
   <mark>Git</mark>.
 
 content:
-  - title: Tools & Interactive Apps
+  - title: Tools
     layout: text
     content: |
       <div style="text-align: center; margin: 24px 0;">
