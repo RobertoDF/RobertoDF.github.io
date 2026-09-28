@@ -31,3 +31,15 @@
     animation: none;
   }
 }
+
+// The theme ships Font Awesome 5, which has no Bluesky icon; draw the FA6 glyph via a mask.
+.fa-bluesky::before {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  background-color: currentColor;
+  -webkit-mask: url('../images/bluesky.svg') no-repeat center / contain;
+  mask: url('../images/bluesky.svg') no-repeat center / contain;
+}

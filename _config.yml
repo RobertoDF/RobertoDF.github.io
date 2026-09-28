@@ -29,7 +29,11 @@ linkedin_username: roberto-de-filippo
 orcid_username: 0000-0002-4085-9114
 
 # Additional icon links
-#additional_links:
+additional_links:
+- title: Bluesky
+  icon: fab fa-bluesky
+  url: https://bsky.app/profile/roberto-defilippo.bsky.social
+
 #- title: itsgoingto.be
 #  icon: fas fa-globe
 #  url: https://www.itsgoingto.be
