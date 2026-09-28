@@ -32,14 +32,25 @@
   }
 }
 
-// The theme ships Font Awesome 5, which has no Bluesky icon; draw the FA6 glyph via a mask.
-.fa-bluesky::before {
+// The theme ships Font Awesome 5, which lacks these brand icons; draw FA6 SVGs via a mask.
+.fa-bluesky::before,
+.fa-x-twitter::before {
   content: "";
   display: inline-block;
   width: 1em;
   height: 1em;
   vertical-align: -0.125em;
   background-color: currentColor;
-  -webkit-mask: url('../images/bluesky.svg') no-repeat center / contain;
-  mask: url('../images/bluesky.svg') no-repeat center / contain;
+  -webkit-mask: no-repeat center / contain;
+  mask: no-repeat center / contain;
+}
+
+.fa-bluesky::before {
+  -webkit-mask-image: url('../images/bluesky.svg');
+  mask-image: url('../images/bluesky.svg');
+}
+
+.fa-x-twitter::before {
+  -webkit-mask-image: url('../images/x-twitter.svg');
+  mask-image: url('../images/x-twitter.svg');
 }
