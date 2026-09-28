@@ -33,7 +33,10 @@ additional_links:
 - title: Bluesky
   icon: fab fa-bluesky
   url: https://bsky.app/profile/roberto-defilippo.bsky.social
-
+  
+- title: X
+  icon: fab fa-x
+  url: https://x.com/RobertoDeF_
 #- title: itsgoingto.be
 #  icon: fas fa-globe
 #  url: https://www.itsgoingto.be
