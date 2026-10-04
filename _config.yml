@@ -103,6 +103,24 @@ content:
       <div style="text-align: center; margin-top: 24px;">
         <img src="/images/doi-banner.png" alt="DOI Banner example" width="800" style="border: 5px solid #4B8E8D; border-radius: 8px;">
       </div>
+      <hr style="margin: 48px auto; border: none; border-top: 1px solid #ddd;">
+      <div style="text-align: center; margin: 24px 0;">
+        <div style="font-size: 1.65em; font-weight: bold; margin-bottom: 8px; line-height: 1.3;">
+          bioRxiv Top Neuroscience Preprints
+        </div>
+        <p style="margin: 0 0 16px;">
+          An infographic of the most-read recent bioRxiv neuroscience preprints, refreshed every few hours. Preprints are ranked by an age-adjusted score — their reads relative to a typical preprint of the same age — by month or over any timeframe, with each paper's rank history.
+        </p>
+        <a href="https://robertodf.github.io/biorxiv-top/" target="_blank" style="display: inline-block; padding: 10px 22px; background-color: #B5332E; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+          📈 Launch the App
+        </a>
+        <p style="margin-top: 14px;">
+          <em>Source: <a href="https://github.com/RobertoDF/biorxiv-top">github.com/RobertoDF/biorxiv-top</a></em>
+        </p>
+      </div>
+      <div style="text-align: center; margin-top: 24px;">
+        <img src="/images/biorxiv-top.png" alt="bioRxiv Top screenshot" width="800" style="border: 5px solid #B5332E; border-radius: 8px;">
+      </div>
       
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
