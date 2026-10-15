@@ -520,6 +520,14 @@ content:
     content: | # this will include new lines to allow paragraphs
         <div style="display: flex; align-items: center; margin-bottom: 16px;">
           <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
+            <img src="/images/anthropic.svg" style="max-width: 80px; max-height: 60px;" alt="Anthropic logo"/>
+          </div>
+          <div style="flex-grow: 1; font-size: 20px;">
+            <strong>2026</strong> <a href="https://www.anthropic.com/news/ai-for-science-program">Anthropic AI for Science program</a>
+          </div>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 16px;">
+          <div style="flex: 0 0 90px; text-align: center; margin-right: 16px;">
             <img src="/images/openscope.png" style="max-width: 80px; max-height: 60px;" alt="Allen Institute Openscope logo"/>
           </div>
           <div style="flex-grow: 1; font-size: 20px;">
